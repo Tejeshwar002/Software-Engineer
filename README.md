@@ -1,2 +1,3 @@
 # Software-Engineer
-working on git and github
+<br>
+Commands pull push commit staging
